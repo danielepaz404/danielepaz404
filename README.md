@@ -10,3 +10,4 @@
 - QA Portfolio
   - Manual Testing Cases
     - [Buggy To Do List](https://github.com/danielepaz404/qa-portfolio/blob/main/manual-testing/to-do-list.md)
+      - Includes: 📃 a short test plan, 🧪 test cases and 🪲 bug reports.

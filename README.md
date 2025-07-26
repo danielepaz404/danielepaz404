@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-## Currently Working On
+## Working On
 - QA Portfolio
   - Manual Testing Cases
     - [Buggy To Do List](https://github.com/danielepaz404/qa-portfolio/blob/main/manual-testing/to-do-list.md)

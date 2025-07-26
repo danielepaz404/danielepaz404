@@ -1,4 +1,4 @@
-<img width="960" height="128" alt="github-header-image (7)" src="https://github.com/user-attachments/assets/a6c4fe84-4750-4efc-b0ab-24241f522d31" />
+<img width="960" height="150" alt="github-header-image (19)" src="https://github.com/user-attachments/assets/fa367107-02ed-4810-93c8-0572368bb943" />
 
 ## Main Skills
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
